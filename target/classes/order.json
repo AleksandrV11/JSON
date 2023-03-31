@@ -1,0 +1,15 @@
+{
+  "id": "dd2332",
+  "date": "2022-02-24",
+  "items": [
+    {
+      "productId": "bread",
+      "quantity": 3
+    },
+    {
+      "productId": "water",
+      "quantity": 6
+    }
+  ]
+}
+
